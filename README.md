@@ -1,2 +1,3 @@
 # ServletFreemarkerJDBCTemplate
-Sources from the ZetCode's Servlet FreeMarker JDBCTemplate tutorial
+Sources from the ZetCode's Servlet FreeMarker JdbcTemplate tutorial
+http://zetcode.com/articles/servletfreemarker/
